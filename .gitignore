@@ -1,0 +1,15 @@
+# Ignore Python virtual environment folder
+.venv/
+
+# Ignore IDE folders (optional)
+.idea/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore videos if you don’t want to upload large files
+Videos/
+
+
